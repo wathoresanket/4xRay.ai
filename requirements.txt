@@ -4,7 +4,7 @@ timm
 scipy
 pycocotools
 termcolor
-opencv-contrib-python-headless
+opencv-python
 SimpleITK
 fvcore
 cloudpickle
