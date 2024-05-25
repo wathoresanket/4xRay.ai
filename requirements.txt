@@ -12,3 +12,4 @@ omegaconf
 ultralytics
 tensorboard
 streamlit
+torch
