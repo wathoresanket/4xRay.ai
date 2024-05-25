@@ -10,7 +10,7 @@ st.set_page_config(
     layout='wide'
 )
 
-cuda = True
+cuda = False
 model_path = "epoch_66_loss_0.18880295587910545.pth"
 
 # Load the model
