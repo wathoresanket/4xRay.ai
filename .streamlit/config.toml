@@ -1,0 +1,14 @@
+# .streamlit/config.toml
+
+[server]
+headless = true
+port = 8501
+enableCORS = true
+
+[theme]
+base = "light"
+primaryColor = "#5CA4A9"  # A soft blue-green color
+backgroundColor = "#F0F2F6"  # A light grayish-blue background
+secondaryBackgroundColor = "#FFFFFF"  # White background for sidebar
+textColor = "#2B2D42"  # Dark gray text color
+font = "sans serif"
